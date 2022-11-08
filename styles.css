@@ -1,0 +1,95 @@
+/*
+    Imports Font
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
+/*
+    Variable Declarations
+*/
+
+:root {
+    --white: hsl(0, 0%, 100%);
+    --light-gray: hsl(212, 45%, 89%);
+    --grayish-blue: hsl(220, 15%, 55%);
+    --dark-blue: hsl(218, 44%, 22%);
+}
+
+/*
+     CSS Basic Reset 
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/*
+    Body
+*/
+
+body {
+    height: 100vh;
+    display: flex;
+    place-items: center;
+    justify-content: center;
+    background-color: var(--light-gray);
+    background-image: url('./images/wave.svg');
+    background-repeat: no-repeat;
+    background-size: 120vw;
+    font-family: "Outfit", sans-serif;
+}
+
+
+/*
+    Qr-Code Container
+*/
+
+.container {
+   display: flex;
+   flex-direction: column;
+   width: 280px;
+   height: auto;
+   padding-bottom: 35px;
+   background-color: var(--white);
+   border-radius: 15px;
+   gap: 15px;
+   box-shadow: 0 2px 15px rgba(0,0,0,.3) ;
+}
+
+.qr-code {
+    border-radius: 10px;
+    margin: 12px;
+}
+
+.heading {
+    color: var(--dark-blue);
+    font-size: 20px;
+    text-align: center;
+}
+
+.paragraph {
+    color: var(--grayish-blue);
+    font-size: 13px;
+    text-align: center;
+    padding: 0 20px;
+}
+
+
+/*
+    Responsive Designing
+*/
+
+@media only screen and (max-width: 440px) {
+    /* For mobile phones: */
+   
+    body {
+        background-size: 880%;
+    }
+
+    .container {
+        width: 80%;
+    }
+} 
