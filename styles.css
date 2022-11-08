@@ -13,6 +13,7 @@
     --light-gray: hsl(212, 45%, 89%);
     --grayish-blue: hsl(220, 15%, 55%);
     --dark-blue: hsl(218, 44%, 22%);
+    --fontOutfit: "Outfit", sans-serif;
 }
 
 /*
@@ -38,8 +39,8 @@ body {
     background-color: var(--light-gray);
     background-image: url('./images/wave.svg');
     background-repeat: no-repeat;
-    background-size: 120vw;
-    font-family: "Outfit", sans-serif;
+    background-size: cover;
+    font-family: var(--fontOutfit);
 }
 
 
@@ -84,11 +85,6 @@ body {
 
 @media only screen and (max-width: 440px) {
     /* For mobile phones: */
-   
-    body {
-        background-size: 880%;
-    }
-
     .container {
         width: 80%;
     }
