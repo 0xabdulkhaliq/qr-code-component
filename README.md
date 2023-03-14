@@ -49,8 +49,8 @@
 
 ## **Links**
 
-- Solution URL: [click here](#)
-- Live Site URL: [click here](https://0xabdulkhalid.github.io/qr-code-component/)
+- Solution URL: [QR Code Component 🎯 [ SEMANTIC MARKUP + VANILLA CSS + BEM ]](https://www.frontendmentor.io/solutions/qr-code-component-but-slightly-tweaked-with-creativity-sG0vtRwcp5)
+- Live Site URL: [https://0xabdulkhalid.github.io/qr-code-component/](https://0xabdulkhalid.github.io/qr-code-component/)
 <br>
 
 ## **Built With**
