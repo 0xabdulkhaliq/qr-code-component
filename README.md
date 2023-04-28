@@ -15,17 +15,18 @@
   </p>
 </div>
 
-<!-- Badges -->
+<!-- Bagdes -->
 <div align="center">
   <!-- Profiles -->
   <a href="https://www.frontendmentor.io/profile/0xabdulkhalid" target="_blank">
-    <img src="https://img.shields.io/badge/Profile-0xAbdulKhalid-fefefe?style=for-the-badge&logo=frontendmentor" alt="Abdul Khalid's Profile">
-  </a> &nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Profile-0xAbdulKhalid-eee?style=for-the-badge&logo=frontendmentor" alt="Abdul's Profile">
+  </a>  &nbsp;&nbsp;&nbsp;
 
   <!-- Status -->
   <a href="#">
-    <img src="https://img.shields.io/badge/Status-Completed-00CE80?style=for-the-badge" alt="Status Completed">
-  </a> &nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" alt="Status Completed">
+  </a>&nbsp;&nbsp;&nbsp;
+
 
   <!-- Difficulty -->
   <a href="https://www.frontendmentor.io/challenges?difficulties=1"  target="_blank">
@@ -37,23 +38,20 @@
 <br />
 
 
+
 ## **Preview**
 
 <div align='center'>
-<img src="./design/desktop-preview.jpg" alt="solution preview">
+<img src="./design/desktop-preview.jpg">
 </div>
 
 <br>
 
 ## **Links**
 
-
-- |||
-  | :----- | :----- |
-  | Solution URL: | [QR Code Component 🎯 [ SEMANTIC MARKUP + VANILLA CSS + BEM ]](https://www.frontendmentor.io/solutions/qr-code-component-but-slightly-tweaked-with-creativity-sG0vtRwcp5) |
-  | Live Site URL: | [https://0xabdulkhalid.github.io/qr-code-component/](https://0xabdulkhalid.github.io/qr-code-component/) |
-  |||
-
+- Solution URL: [QR Code Component 🎯 [ SEMANTIC MARKUP + VANILLA CSS + BEM ]](https://www.frontendmentor.io/solutions/qr-code-component-but-slightly-tweaked-with-creativity-sG0vtRwcp5)
+- Live Site URL: [https://0xabdulkhalid.github.io/qr-code-component/](https://0xabdulkhalid.github.io/qr-code-component/)
+<br>
 
 ## **Built With**
 
@@ -102,18 +100,16 @@
 <div align=center>
 
   <a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin%20Profile-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Profile">
+    <img src="https://img.shields.io/badge/linkedin%20Profile-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=Linkedin>
   </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.frontendmentor.io/profile/0xabdulkhalid" target="_blank">
-    <img src="https://img.shields.io/badge/FEM%20Profile-f8f9f8?style=for-the-badge&logo=Frontend-Mentor&logoColor=black" alt="Frontend-Mentor Profile">
+    <img src="https://img.shields.io/badge/FEM%20Profile-f8f9f8?style=for-the-badge&logo=Frontend-Mentor&logoColor=black" alt="Frontend-Mentor">
   </a> &nbsp;&nbsp;&nbsp;
 
   <a href="https://www.github.com/0xabdulkhalid/" target="_blank">
-    <img src="https://img.shields.io/badge/Github%20Profile-131313?style=for-the-badge&logo=github&logoColor=white" alt="Github Profile">
+    <img src="https://img.shields.io/badge/Github%20Profile-131313?style=for-the-badge&logo=github&logoColor=white" alt="Personal Website">
   </a>
 
 </div>
-
-<br>
 
